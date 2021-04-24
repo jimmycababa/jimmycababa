@@ -1,3 +1,4 @@
+<div align=”center”>
 ### Hi 👋, I'm Jimmy
 Full Stack Javascript Developer based in Milwaukee, WI
 

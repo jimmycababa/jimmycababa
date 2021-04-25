@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on projects that are focused on the betterment of our environment
 - 📫 You can reach me at jimmycababa@gmail.com
 
-<h2 align="center">## Connect with me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <div align="center">
 <a href="https://github.com/jimmycababa" target="_blank">

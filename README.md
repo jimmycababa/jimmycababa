@@ -10,7 +10,7 @@
 <h2 align="center">Github Stats</h2>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jimmycababa&show_icons=true&locale=en" align="center" width="40%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=katkava" align="center" width="40%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmycababa" align="center" width="40%"/>
 </div> 
 
 <h2 align="center">Connect With Me</h2>

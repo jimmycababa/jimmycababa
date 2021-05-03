@@ -13,7 +13,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jimmycababa" align="center" width="40%"/>
 </div> 
 
-## My Skill Set 
+<h2 align="center">Skill Set</h2>
 <div width="100%"> 
 <table><tr><td valign="top" width="50%">
  

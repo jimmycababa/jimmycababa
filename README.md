@@ -14,7 +14,7 @@
 </div> 
 
 <h2 align="center">Skill Set</h2>
-<div width="100%"> 
+<div align="center" width="100%"> 
 <table><tr><td valign="top" width="50%">
  
 <h1 align="center">Frontend</h1> 

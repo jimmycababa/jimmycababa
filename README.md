@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
 <h1 align="center">Full Stack Javascript Developer based in Milwaukee, WI</h1>
 
-- 🔭 I’m currently working on a fullstack app that allows users to find free tennis courts
+- 🔭 I’m currently working on a fullstack app that users can enter journal items and export to a document
 - 🌱 I’m currently learning react, ruby on rails, data structures and algorithms
 - 👯 I’m looking to collaborate on projects that are focused on the betterment of our environment
 - 📫 You can reach me at jimmycababa@gmail.com

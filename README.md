@@ -3,7 +3,7 @@
 <h1 align="center">Full Stack Web Developer based in Milwaukee, WI</h1>
 
 - 🔭 I’m currently working on a rails app that keeps track of your sneaker inventory
-- 🌱 I’m currently learning react, ruby on rails
+- 🌱 I’m currently learning react, ruby on rails, redux
 - 👯 I’m looking to collaborate on projects that are focused on the betterment of our environment
 - 📫 You can reach me at jimmycababa@gmail.com
 

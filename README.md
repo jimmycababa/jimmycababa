@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at Home Chef (CX Growth Team)
 - 🌱 I’m currently learning react, ruby on rails, redux, sidekiq
-- 👯 I’m looking to collaborate on projects that are focused on the betterment of our environment
+- 👯 I’m looking to collaborate on projects that are focused on the betterment of our environment.
 - 📫 You can reach me at jimmycababa@gmail.com
 
 <h2 align="center">Github Stats</h2>

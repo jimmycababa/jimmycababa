@@ -3,7 +3,7 @@
 <h1 align="center">Full Stack Software Engineer based in Milwaukee WI</h1>
 
 - 🔭 I’m currently working at Home Chef (CX Growth Team)
-- 🌱 I’m currently learning react, ruby on rails, redux, sidekiq
+- 🌱 I’m currently learning react, ruby on rails, redux
 - 👯 I’m looking to collaborate on projects that are focused on the betterment of our environment.
 - 📫 You can reach me at jimmycababa@gmail.com
 

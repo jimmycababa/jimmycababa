@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
-<h1 align="center">Full Stack Software Engineer based in Milwaukee, WI</h1>
+<h1 align="center">Full Stack Software Engineer based in Milwaukee WI</h1>
 
 - 🔭 I’m currently working at Home Chef (CX Growth Team)
 - 🌱 I’m currently learning react, ruby on rails, redux
